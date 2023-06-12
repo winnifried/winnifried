@@ -1,0 +1,38 @@
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" type="text/css" href="wstyle.css" />
+<meta name="robots" content="index,follow"/>
+
+<title>Winnifried Wollner - Optimierung - Universität Hamburg</title>
+
+</head>
+<body>
+  <div class="header">
+    <div class="bluebar"> </div>
+    <!--    <div class="navbar">
+      	<a href="index.html" class="aktiv">Home</a> 
+	<a href="publications.html">Publications</a> 
+	<a href="teaching.html">Teaching</a> 
+	<a href="conferences.html">Conferences</a> 
+	<a href="projects.html">Projects</a> 
+	<a href="editorial-boards.html">Editorial Boards</a> 
+	<a href="cv.html">CV</a>
+	<br />
+    </div>
+    
+    <div class="headerbild">
+      <img src="figures/???" width="100%" height="auto" />
+    </div>
+-->
+    <div class="breadcrumbs">
+      <a href="http://www.uni-hamburg.de/">Universit&auml;t Hamburg</a> &rarr;
+      <a href="http://www.min.uni-hamburg.de/">MIN Fakulty</a> &rarr;
+      <a href="https://www.math.uni-hamburg.de/">Department of Mathematics</a> &rarr;
+      <a href="index.html">Winnifried Wollner</a>
+    </div>
+  </div>
+  <!-- end of headerline -->
+  <div class="row">
+  <div class="column main">
+  <h1>Prof. Dr. Winnifried Wollner</h1>
+<!-- End of Header-->
